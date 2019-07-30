@@ -1,0 +1,210 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/MY_CAD/allegro/MY_CAD_1.brd                           |
+|                                                    Tue Jul 30 11:26:56 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +5V          pins ADDED TO this new net
+                                 J2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -15V         pins ADDED TO this new net
+                                 J2.4           U3.4           U4.4           
+                                 U5.4           U6.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  15V          pins ADDED TO this new net
+                                 J2.1           U3.7           U4.1           
+                                 U5.7           U6.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  5V           pins ADDED TO this new net
+                                 R2.1           U2.8           VR1.2          
+                                 VR1.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CLOCK        pins ADDED TO this new net
+                                 U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 J2.3           J3.3           J4.2           
+                                 R1.2           R8.2           R9.2           
+                                 U2.1           U3.3           U4.7           
+                                 U6.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00171       pins ADDED TO this new net
+                                 C1.1           U2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00178       pins ADDED TO this new net
+                                 C2.1           Q1.2           Q1.3           
+                                 R1.1           R2.2           R3.1           
+                                 U2.6           U2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00341       pins ADDED TO this new net
+                                 Q1.1           VR1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00651       pins ADDED TO this new net
+                                 R3.2           R4.1           U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00900       pins ADDED TO this new net
+                                 R4.2           VR2.1          VR2.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01954       pins ADDED TO this new net
+                                 J3.2           U4.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/MY_CAD/allegro/MY_CAD_1.brd                           |
+|                                                    Tue Jul 30 11:26:56 2019  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N01961       pins ADDED TO this new net
+                                 J3.1           U4.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01977       pins ADDED TO this new net
+                                 C3.1           U4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02222       pins ADDED TO this new net
+                                 R5.2           R6.2           U5.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02442       pins ADDED TO this new net
+                                 R7.1           R8.1           U5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02504       pins ADDED TO this new net
+                                 R7.2           U5.6           U6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02902       pins ADDED TO this new net
+                                 D1.1           U6.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02962       pins ADDED TO this new net
+                                 D1.2           J4.1           R9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N014781      pins ADDED TO this new net
+                                 R5.1           U4.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SIG_1        pins ADDED TO this new net
+                                 R6.1           U3.6           VR2.3          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/MY_CAD/allegro/MY_CAD_1.brd                           |
+|                                                    Tue Jul 30 11:26:56 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_CAP196_0.01UF
+ CON2_JUMPER2_CON2
+ CON3_JUMPER3_CON3
+ CON4_JUMPER4_CON4
+ D1S1588_DO35_D1S1588
+ LF356_DIP8_3_LF356
+ LF398_0_DIP8_3_LF398
+ NE555_0_DIP8_3_NE555
+ POT_RESADJ_20K
+ POT_RESADJ_5K
+ Q2SA1015_TO92_Q2SA1015
+ R_RES400_560
+ R_RES400_100K
+ R_RES400_10K
+ R_RES400_39K
+ R_RES400_6.2K
+ R_RES400_R
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/MY_CAD/allegro/MY_CAD_1.brd                           |
+|                                                    Tue Jul 30 11:26:56 2019  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAP196_0.01UF  
+ C2                  CAP NP_CAP196_0.01UF  
+ C3                  CAP NP_CAP196_0.01UF  
+ D1                  D1S1588_DO35_D1S1588  
+ J2                  CON4_JUMPER4_CON4     
+ J3                  CON3_JUMPER3_CON3     
+ J4                  CON2_JUMPER2_CON2     
+ Q1                  Q2SA1015_TO92_Q2SA1015 
+ R1                  R_RES400_100K         
+ R2                  R_RES400_39K          
+ R3                  R_RES400_6.2K         
+ R4                  R_RES400_560          
+ R5                  R_RES400_10K          
+ R6                  R_RES400_R            
+ R7                  R_RES400_10K          
+ R8                  R_RES400_10K          
+ R9                  R_RES400_10K          
+ U2                  NE555_0_DIP8_3_NE555  
+ U3                  LF356_DIP8_3_LF356    
+ U4                  LF398_0_DIP8_3_LF398  
+ U5                  LF356_DIP8_3_LF356    
+ U6                  LF356_DIP8_3_LF356    
+ VR1                 POT_RESADJ_5K         
+ VR2                 POT_RESADJ_20K        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/MY_CAD/allegro/MY_CAD_1.brd                           |
+|                                                    Tue Jul 30 11:26:56 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ J2.4                           PRIM_FILE      .\pstchip.dat
+ J3.3                           PRIM_FILE      .\pstchip.dat
+ J4.2                           PRIM_FILE      .\pstchip.dat
+ Q1.1                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ U2.8                           PRIM_FILE      .\pstchip.dat
+ U3.4                           PRIM_FILE      .\pstchip.dat
+ U4.4                           PRIM_FILE      .\pstchip.dat
+ U5.4                           PRIM_FILE      .\pstchip.dat
+ U6.4                           PRIM_FILE      .\pstchip.dat
+ VR1.2                          PRIM_FILE      .\pstchip.dat
+ VR2.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/USERS/USER/DESKTOP/MY_CAD/allegro/MY_CAD_1.brd                           |
+|                                                    Tue Jul 30 11:26:56 2019  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      72                                        |
+|       Comp definitions added:      17                                        |
+|       Components added      :      24                                        |
+|       Slot property added   :      24                                        |
+|                                                                              |
+|   Total ECO changes reported:     137                                        |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,43 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : MY_CAD_1.brd                                  )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Tue Jul 30 11:29:58 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U4 / LF398_0_DIP8_3_LF398 / DIP8_3 at (26.473 94.093)
+         Placed symbol:  U6 / LF356_DIP8_3_LF356 / DIP8_3 at (36.836 94.093)
+         Placed symbol:  U5 / LF356_DIP8_3_LF356 / DIP8_3 at (47.199 94.093)
+         Placed symbol:  U3 / LF356_DIP8_3_LF356 / DIP8_3 at (57.562 94.093)
+         Placed symbol:  U2 / NE555_0_DIP8_3_NE555 / DIP8_3 at (67.925 94.093)
+         Placed symbol:  J2 / CON4_JUMPER4_CON4 / JUMPER4 at (78.288 86.727)
+         Placed symbol:  J3 / CON3_JUMPER3_CON3 / JUMPER3 at (88.651 86.473)
+         Placed symbol:  Q1 / Q2SA1015_TO92_Q2SA1015 / TO92 at (96.700 87.210)
+         Placed symbol:  VR1 / POT_RESADJ_5K / RESADJ at (104.749 91.401)
+         Placed symbol:  VR2 / POT_RESADJ_20K / RESADJ at (110.032 91.401)
+         Placed symbol:  R3 / R_RES400_6.2K / RES400 at (113.359 86.384)
+         Placed symbol:  R1 / R_RES400_100K / RES400 at (27.057 99.109)
+         Placed symbol:  R2 / R_RES400_39K / RES400 at (30.384 99.109)
+         Placed symbol:  R7 / R_RES400_10K / RES400 at (33.711 99.109)
+         Placed symbol:  R8 / R_RES400_10K / RES400 at (37.038 99.109)
+         Placed symbol:  R9 / R_RES400_10K / RES400 at (40.365 99.109)
+         Placed symbol:  R6 / R_RES400_R / RES400 at (43.692 99.109)
+         Placed symbol:  J4 / CON2_JUMPER2_CON2 / JUMPER2 at (46.435 99.198)
+         Placed symbol:  D1 / D1S1588_DO35_D1S1588 / DO35 at (51.870 99.198)
+         Placed symbol:  C3 / CAP NP_CAP196_0.01UF / CAP196 at (56.137 99.198)
+         Placed symbol:  C2 / CAP NP_CAP196_0.01UF / CAP196 at (61.928 99.198)
+         Placed symbol:  R4 / R_RES400_560 / RES400 at (66.779 99.109)
+         Placed symbol:  R5 / R_RES400_10K / RES400 at (70.106 99.109)
+         Placed symbol:  C1 / CAP NP_CAP196_0.01UF / CAP196 at (74.373 99.198)
+
+
+Placed 24 of 24 applicable (24 total) symbols.
+
+-----------------------------------------------------------------------
+
